@@ -1,0 +1,2 @@
+export const GEMINI_API_KEY = 'AIzaSyBuSOVYxLsA-yxWzlZGCZ71RtP8WzFVYpc';
+export const UNSPLASH_ACCESS_KEY = 'F5L1TBLKV3ZMFTFbG9Rizxsk-d2zuYQOFS58ciF0j0E'; 

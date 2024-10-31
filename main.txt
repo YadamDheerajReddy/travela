@@ -1,0 +1,19 @@
+ want to develop a SaaS website where user can type in a location, for example let's say the user types Hyderabad, the SaaS which is AI-enabled should give the users the history of the place, trivia, best places to visit, hotels with booking links, best foods to try, things to remember when visiting and give some tourist attraction images. The user should be able ti use the application only when the user signs in to the application using his/her google account, when the user logs in for the very first time, he should be given a page where he have to fill few details including personal details, travel preferences, etc and all this data should be seen by the user once updated in the profile section. All this data should be stored in Google firebase.
+
+Pages:
+-- Sign In Page
+-- Personal Details Filling Page (After Signing In for the first time and mandatory to fill the details)
+-- Landing Page
+-- About Page
+-- Main application
+-- Contact Page
+-- Profile Page
+
+Tech Stack:
+Front-end: React JS, Tailwind CSS
+Backend: Firebase (For data storage and google sign in)
+AI API: Google Gemini API
+
+As for the images of tourist attraction images, use any web image scraping technique.
+
+The name of the SaaS is "Travela".
